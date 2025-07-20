@@ -51,9 +51,3 @@ To build a robust and scalable SQL database that allows hotel staff to:
 
 ---
 
-## 📥 Installation & Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/hotel-management-system-db.git
-   cd hotel-management-system-db
